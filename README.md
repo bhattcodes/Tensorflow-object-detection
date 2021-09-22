@@ -1,4 +1,4 @@
-# Tensorflow-object-detection
+# Hand Gestures Recognition
 
 - Architecture : SSD MobileNet v2 FPN Lite 320x320,  <a href=https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md>Link</a>
 - Tensorflow Object Detection API,  <a href=https://github.com/tensorflow/models/tree/master/research/object_detection>Link</a>
